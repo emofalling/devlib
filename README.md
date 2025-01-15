@@ -2,7 +2,7 @@
 ## 简介
 [盛思掌控板](https://labplus.cn/handPy)的[固件](https://github.com/labplus-cn/mpython.git)中的`mpython.py`的优化库，大幅提高了尤其是图像处理和oled的效率。此文档只展示已优化的部分，其余部分请见[`mpython.py`帮助文档](https://mpython.readthedocs.io/zh-cn/master/library/mPython/mpython.html)
 
-提示：适用于盛思掌控板的devlib已编译版本在位置[debug调试版本](./compiled/debug/xtensawin/devlib.mpy)和[release发行版](./compiled/release/xtensawin/devlib.mpy)
+提示：适用于盛思掌控板的devlib已编译版本在位置[debug调试版本](./compiled/debug/xtensawin)和[release发行版](./compiled/release/xtensawin)
 ## 按钮与触摸键
 &emsp;&emsp;本库提供了对掌控板按钮和触摸键的功能操作，包括检测按钮和触摸键是否被按下，以及为按钮和触摸键添加事件等。
 ### 按钮
